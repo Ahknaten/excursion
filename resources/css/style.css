@@ -5,7 +5,12 @@ body {
   color: white;
 }
 
-.download a {
+.download {
+  font-size: 16px;
+  color: Aquamarine;
+}
+
+a {
   font-size: 16px;
   color: Aquamarine;
 }
